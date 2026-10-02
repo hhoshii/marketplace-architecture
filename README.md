@@ -1,6 +1,6 @@
 ## 1. C4 Container диаграмма
 
-![C4 Container Diagram](docs/c4-container.png)
+![C4 Container Diagram](docs/с4-container.png)
 
 На диаграмме показаны основные части системы:
 
